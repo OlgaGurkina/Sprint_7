@@ -38,7 +38,6 @@
         <artifactId>allure-junit4</artifactId>
         <version>${allure.version}</version>
     </dependency>
-
     <dependency>
         <groupId>com.google.code.gson</groupId>
         <artifactId>gson</artifactId>
